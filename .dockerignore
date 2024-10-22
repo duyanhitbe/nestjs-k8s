@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/test
+/k8s
+
+Dockerfile
+.dockerignore
+README.md
+.eslintrc.js
+.prettierrc
+.gitignore
